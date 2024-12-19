@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFA3DD-DB6D-4BAD-966C-E6BC3D311E53}|POS.API2\\POS.API2.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFA3DD-DB6D-4BAD-966C-E6BC3D311E53}|POS.API2\\POS.API2.csproj|solutionrelative:pos.api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFA3DD-DB6D-4BAD-966C-E6BC3D311E53}|POS.API2\\POS.API2.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.api2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBFA3DD-DB6D-4BAD-966C-E6BC3D311E53}|POS.API2\\POS.API2.csproj|solutionrelative:pos.api2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\dto\\response\\categoryselectresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\response\\categoryselectresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\dto\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\response\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\commom\\base\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\commom\\base\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1548A-A33E-4381-9F86-C4041BEAB9AB}|POS.Domain\\POS.Domain.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.domain\\pos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28F1548A-A33E-4381-9F86-C4041BEAB9AB}|POS.Domain\\POS.Domain.csproj|solutionrelative:pos.domain\\pos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE275A8B-F628-4BA8-A39C-3DB2362684EE}|POS.TEST\\POS.TEST.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.test\\pos.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE275A8B-F628-4BA8-A39C-3DB2362684EE}|POS.TEST\\POS.TEST.csproj|solutionrelative:pos.test\\pos.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBFA3DD-DB6D-4BAD-966C-E6BC3D311E53}|POS.API2\\POS.API2.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.api2\\pos.api2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBBFA3DD-DB6D-4BAD-966C-E6BC3D311E53}|POS.API2\\POS.API2.csproj|solutionrelative:pos.api2\\pos.api2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\mappers\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\mappers\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\services\\categoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\services\\categoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\interfaces\\icategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\interfaces\\icategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\validators\\category\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\validators\\category\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.application\\dto\\request\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77FCDE4-7E8C-46B0-9BC0-B2BEE47CA572}|POS.Application\\POS.Application.csproj|solutionrelative:pos.application\\dto\\request\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.infrastructure\\persistences\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868D332D-EB30-4237-A324-032BFF6171C2}|POS.Utilities\\POS.Utilities.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.utilities\\statetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868D332D-EB30-4237-A324-032BFF6171C2}|POS.Utilities\\POS.Utilities.csproj|solutionrelative:pos.utilities\\statetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.infrastructure\\persistences\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.infrastructure\\commons\\base\\response\\baseentityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\commons\\base\\response\\baseentityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.infrastructure\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\extensions\\injectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.infrastructure\\persistences\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|c:\\users\\user\\documents\\gabo\\sistema pos\\pos\\pos.infrastructure\\persistences\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A31A3C2-BBE6-4942-8579-C99DEF628933}|POS.Infrastructure\\POS.Infrastructure.csproj|solutionrelative:pos.infrastructure\\persistences\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 248,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.API2\\Program.cs",
+              "RelativeDocumentMoniker": "POS.API2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.API2\\Program.cs",
+              "RelativeToolTip": "POS.API2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:18:00.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.API2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "POS.API2\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.API2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "POS.API2\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:02:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "POS.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj",
+              "RelativeDocumentMoniker": "POS.Domain\\POS.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Domain\\POS.Domain.csproj",
+              "RelativeToolTip": "POS.Domain\\POS.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T07:15:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "POS.TEST.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.TEST\\POS.TEST.csproj",
+              "RelativeDocumentMoniker": "POS.TEST\\POS.TEST.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.TEST\\POS.TEST.csproj",
+              "RelativeToolTip": "POS.TEST\\POS.TEST.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T06:59:24.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "POS.API2.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.API2\\POS.API2.csproj",
+              "RelativeDocumentMoniker": "POS.API2\\POS.API2.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.API2\\POS.API2.csproj",
+              "RelativeToolTip": "POS.API2\\POS.API2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T06:58:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InjectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Extensions\\InjectionExtensions.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Extensions\\InjectionExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Extensions\\InjectionExtensions.cs",
+              "RelativeToolTip": "POS.Application\\Extensions\\InjectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:40:26.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Mappers\\CategoryMappingProfile.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Mappers\\CategoryMappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Mappers\\CategoryMappingProfile.cs",
+              "RelativeToolTip": "POS.Application\\Mappers\\CategoryMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:55:50.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Services\\CategoryApplication.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Services\\CategoryApplication.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Services\\CategoryApplication.cs",
+              "RelativeToolTip": "POS.Application\\Services\\CategoryApplication.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwCYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:35:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategorySelectResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Dto\\Response\\CategorySelectResponseDTO.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Dto\\Response\\CategorySelectResponseDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Dto\\Response\\CategorySelectResponseDTO.cs",
+              "RelativeToolTip": "POS.Application\\Dto\\Response\\CategorySelectResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:29:31.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Commom\\Base\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Commom\\Base\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Commom\\Base\\BaseResponse.cs",
+              "RelativeToolTip": "POS.Application\\Commom\\Base\\BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:27:28.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Interfaces\\ICategoryApplication.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Interfaces\\ICategoryApplication.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Interfaces\\ICategoryApplication.cs",
+              "RelativeToolTip": "POS.Application\\Interfaces\\ICategoryApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:26:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "RelativeToolTip": "POS.Application\\Validators\\Category\\CategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:17:51.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Dto\\Request\\CategoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Dto\\Request\\CategoryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Dto\\Request\\CategoryRequestDTO.cs",
+              "RelativeToolTip": "POS.Application\\Dto\\Request\\CategoryRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:15:35.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Dto\\Response\\CategoryResponseDTO.cs",
+              "RelativeDocumentMoniker": "POS.Application\\Dto\\Response\\CategoryResponseDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Application\\Dto\\Response\\CategoryResponseDTO.cs",
+              "RelativeToolTip": "POS.Application\\Dto\\Response\\CategoryResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:12:27.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StateTypes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Utilities\\StateTypes.cs",
+              "RelativeDocumentMoniker": "POS.Utilities\\StateTypes.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Utilities\\StateTypes.cs",
+              "RelativeToolTip": "POS.Utilities\\StateTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:07:49.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntityResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Commons\\Base\\Response\\BaseEntityResponse.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Commons\\Base\\Response\\BaseEntityResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Commons\\Base\\Response\\BaseEntityResponse.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Commons\\Base\\Response\\BaseEntityResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:17:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InjectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Extensions\\InjectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:16:47.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowD0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:48:08.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:42:50.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:40:51.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "POS.Infrastructure\\Persistences\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Sistema POS\\POS\\POS.Infrastructure\\Persistences\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "POS.Infrastructure\\Persistences\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:38:55.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\bin\Debug\net8.0\POS.Utilities.deps.json
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\bin\Debug\net8.0\POS.Utilities.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\bin\Debug\net8.0\POS.Utilities.pdb
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\POS.Utilities.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\POS.Utilities.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\refint\POS.Utilities.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\POS.Utilities.pdb
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Utilities\obj\Debug\net8.0\ref\POS.Utilities.dll

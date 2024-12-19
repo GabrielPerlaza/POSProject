@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\bin\Debug\net8.0\POS.Infrastructure.deps.json
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\bin\Debug\net8.0\POS.Infrastructure.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\bin\Debug\net8.0\POS.Infrastructure.pdb
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\bin\Debug\net8.0\POS.Domain.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\bin\Debug\net8.0\POS.Utilities.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\bin\Debug\net8.0\POS.Domain.pdb
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\bin\Debug\net8.0\POS.Utilities.pdb
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infr.1F9324E1.Up2Date
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infrastructure.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\refint\POS.Infrastructure.dll
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\POS.Infrastructure.pdb
+C:\Users\User\Documents\Gabo\Sistema POS\POS\POS.Infrastructure\obj\Debug\net8.0\ref\POS.Infrastructure.dll
